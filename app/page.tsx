@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex flex-col justify-center items-center">
       <h1>Catalog</h1>
       <nav>
-        <a href="/dianacdev"> Diana&apos;s Developer Info</a>
+        <a href="http://shadedoasis.com/dianacdev"> Diana&apos;s Developer Info</a>
       </nav>
     </main>
   );
