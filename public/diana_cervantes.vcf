@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cervantes;Diana;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:dianacervantes.021@gmail.com
+TEL;TYPE=CELL:801-494-4588
+ORG:Shear Insights\, AgriAuctioneer\, BudgetBully
+TITLE:Software Engineer | Founder
+item1.URL:dianacdev.com
+item1.X-ABLabel:PROFILE
+item2.URL:https://www.linkedin.com/in/dianaac/
+item2.X-ABLabel:PROFILE
+URL;TYPE=WORK:shearinsights.com
+URL;TYPE=WORK:agriauctioneer.com
+URL;TYPE=WORK:budget-bully.com
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFvK06mqV6tfUrpOaMfBa
+ P07cHMg65c7sXypVvFk4HJDEJA5v7L
+CATEGORIES:myContacts
+END:VCARD
